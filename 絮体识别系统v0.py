@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 import requests
 import os
-print(cv2.__version__)
+
 st.set_page_config(layout="wide")
 st.title('Floc Image Recognition and Feature Extraction')
 with st.container(border=True):
