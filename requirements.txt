@@ -1,5 +1,5 @@
 streamlit==1.41.0
 pandas
 numpy==1.24.3
-opencv-python==4.10.0
-opencv-python-headless
+opencv-python<4.11.0
+opencv-python-headless<4.11.0
